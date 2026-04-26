@@ -4,12 +4,75 @@ title: "AI 2027 and a Christian Response"
 permalink: /ai-2027-dialogue/
 ---
 
+<style>
+.dialogue-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.dialogue-intro-text {
+  flex: 1;
+}
+
+.sidebar-box {
+  flex: 0 0 260px;
+  border: 1px solid #ccc;
+  border-left: 4px solid #8b6f47;
+  background: #faf8f5;
+  padding: 1rem 1.2rem;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: #444;
+}
+
+.sidebar-box .sidebar-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-box .byline-block {
+  margin-bottom: 0.75rem;
+}
+
+.sidebar-box .byline-block strong {
+  color: #333;
+}
+
+.sidebar-box .sidebar-note {
+  border-top: 1px solid #ddd;
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+  font-style: italic;
+  color: #555;
+}
+</style>
+
 <div class="dialogue">
 
-<p class="byline"><strong>By:</strong> Changlin Li and Ender Noah<br>
-<strong>Contributors:</strong> Stefan Jungmichel; additional contributor to be confirmed.</p>
+<div class="dialogue-header">
 
-<p class="dialogue-intro">In early 2025, AI researchers published <em>AI 2027</em>, an article exploring two scenarios for how humanity might create artificial superintelligence. The piece sparked debate about how quickly AI might surpass human intelligence and what risks that could pose for society. Changlin Li, cofounder of the AI Safety Awareness Project, approached the AI Lab at Biola to explore what a Christian perspective on the article might look like. What follows is a dialogue shaped over months of off-and-on conversation.</p>
+  <div class="dialogue-intro-text">
+    <p class="dialogue-intro">In early 2025, AI researchers published <em>AI 2027</em>, an article exploring two scenarios for how humanity might create artificial superintelligence. The piece sparked debate about how quickly AI might surpass human intelligence and what risks that could pose for society.</p>
+  </div>
+
+  <div class="sidebar-box">
+    <div class="sidebar-label">About this piece</div>
+    <div class="byline-block">
+      <strong>By:</strong> ___<br>
+      <strong>Contributors:</strong> ___
+    </div>
+    <div class="sidebar-note">
+      Changlin Li, cofounder of the AI Safety Awareness Project, approached the AI Lab at Biola to explore a Christian perspective on the AI 2027 article.
+    </div>
+  </div>
+
+</div>
+
 
 <div class="pullbox">
   <span class="quote">“The pessimism of AI 2027 has some realistic roots, but our charge is to make it false.”</span>
